@@ -1,4 +1,4 @@
 auth
-__pycache__
-classes/__pycache__
-modulse/__pycache__
+__pycache__/*
+classes/__pycache__/*
+modules/__pycache__/*
