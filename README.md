@@ -24,7 +24,7 @@ Creates a new repository locally and on GitHub and sets the remote destination
 ## Execution
 
 * Create a GitHub [authentication token](https://github.com/settings/tokens/new)
-* Run `create-repo.py` from the directory in which you would like to create the repo, eg.
+* Run **create-repo.py** from the directory in which you would like to create the repo, eg.
   ```
   C:\Users\User>py C:\Scripts\create-repo\create-repo.py
   ```
