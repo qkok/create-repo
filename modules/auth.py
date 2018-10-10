@@ -1,7 +1,7 @@
 import os
 
 def is_authed():
-  """Checks whether an auth file containing the GiHub authorization token exists"""
+  """Checks whether an auth file containing the GitHub authorization token exists"""
   try:
     auth_file = open(os.path.dirname(os.path.realpath(__file__)) + "/../auth", "r")
     return auth_file.readline()
